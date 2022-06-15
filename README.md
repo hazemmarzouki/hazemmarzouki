@@ -9,7 +9,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `Senior` at Faculty of Computers & Information at Assuit University
+- :school: I am a `Senior` at Central Polytechnic Private School Of Tunis
 - 🌱 I’m currently learning `Flutter & Dart`
 - 📫 How to reach me **marzouki.contact@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]("").
