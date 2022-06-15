@@ -14,7 +14,6 @@
 - 📫 How to reach me **marzouki.contact@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]("").
 - :nerd_face: Always `learning new things`
-- 🐼 Doing my best 
 
 <br>
 
