@@ -3,7 +3,7 @@
 
 <p align="center"> 
      <img src="https://komarev.com/ghpvc/?username=SallamRady&label=Profile%20views&color=0e75b6&style=flat" alt="SallamRady" />
-		   <img src="[https://badges.pufler.dev/repos/hazemmarzouki](https://badges.pufler.dev/repos/hazemmarzouki)" alt="hazemmarzouki" />
+		   <img src="https://badges.pufler.dev/repos/hazemmarzouki" alt="hazemmarzouki" />
 		   <img src="https://img.shields.io/github/followers/hazemmarzouki?label=Followers" alt="hazemmarzouki" />
 </p>
 <br>
