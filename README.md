@@ -9,7 +9,7 @@
 <br>
 
 - :school: I am a `Senior` at Central Polytechnic Private School Of Tunis
-- 🌱 I’m currently learning `Flutter & Dart`
+- 🌱 I’m currently learning `VueJS`
 - 📫 How to reach me **marzouki.contact@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [My Resume]("").
 - :nerd_face: Always `learning new things`
