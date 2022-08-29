@@ -5,7 +5,7 @@
 </p>
 <br>
 
-- :school: I am a `Senior` at Central Polytechnic Private School Of Tunis
+- :school: I am a Final Year Student  at Central Polytechnic Private School Of Tunis
 - 🌱 I’m currently learning `VueJS`
 - 📫 How to reach me **marzouki.contact@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [My Resume]("").
