@@ -5,10 +5,6 @@
 </p>
 <br>
 
-- 📫 How to reach me **marzouki.contact@gmail.com**
-- :nerd_face: Always `learning new things`
-
-<br>
 
 ## 📩 Connect with me
 <p align="center">
