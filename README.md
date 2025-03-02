@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marzouki Hazem</h1>
-<h3 align="center">Software Engineer Student </h3>
+<h3 align="center">Software Engineer </h3>
 
 
 </p>
 <br>
 
-- :school: I am a Final Year Student  at Central Polytechnic Private School Of Tunis
-- 🌱 I’m currently learning `VueJS`
 - 📫 How to reach me **marzouki.contact@gmail.com**
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [My Resume]("").
 - :nerd_face: Always `learning new things`
 
 <br>
